@@ -1,6 +1,6 @@
 # Carousel OWl
 
-Um mini "clone" da netflix com carolsel owl
+Um mini "clone" da netflix com carousel owl
 
 # Imagens
 ![alt tag](https://media.discordapp.net/attachments/964537774399193158/964537904472916048/clone.PNG?width=1192&height=656)
